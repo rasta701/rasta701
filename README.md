@@ -3,9 +3,9 @@
 
 
 
-- 📝 I regularly write articles on [t.me/rust.yaa - 701](t.me/rust.yaa - 701)
+- 📝 I regularly write articles on /t.me/rust.yaa - 701
 
-- 🔵Telegram **t.me/thebest_coder**
+- 🔵Telegram **t.me/rust.yaa - 701**
 
 - 📫 Email **rasta701.me@gmail.com**
 <h3 align="left">Connect with me:</h3>
